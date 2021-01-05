@@ -2204,7 +2204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/youtube-play.html"
   },
   {
-    "revision": "18cd77850665a802cc9989c2c14ba866",
+    "revision": "fe3a37fdc04dc9c689ed91fe1f156ee1",
     "url": "/index.html"
   },
   {

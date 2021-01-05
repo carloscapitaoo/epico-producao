@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.52dcb94485300be64127fa7a22666e8e.js"
+  "/precache-manifest.a08ed6ef2158045888797e7f1ac4cfe9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "epico"});
